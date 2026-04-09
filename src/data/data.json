@@ -1,0 +1,192 @@
+[
+  {
+    "tourName": "Golden Triangle Heritage Tour",
+    "description": "Explore India's famous Golden Triangle covering Delhi, Agra, and Jaipur with historical monuments and cultural experiences.",
+    "price": 18000,
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 128,
+    "maxGroupSize": 15,
+    "durationInDays": 5,
+    "difficulty": "easy",
+    "startLocation": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "coordinates": [77.1025, 28.7041]
+    },
+    "locationsCovered": ["Delhi", "Agra", "Jaipur"],
+    "startDates": ["2026-04-10", "2026-05-15"],
+    "included": ["Hotel", "Breakfast", "Guide", "Transport"],
+    "excluded": ["Flights", "Personal expenses"]
+  },
+  {
+    "tourName": "Kashmir Paradise Tour",
+    "description": "Visit Srinagar, Gulmarg and Pahalgam with beautiful valleys, snow mountains and Dal Lake houseboats.",
+    "price": 25000,
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 210,
+    "maxGroupSize": 10,
+    "durationInDays": 6,
+    "difficulty": "easy",
+    "startLocation": {
+      "city": "Srinagar",
+      "state": "Jammu & Kashmir",
+      "coordinates": [74.7973, 34.0837]
+    },
+    "locationsCovered": ["Srinagar", "Gulmarg", "Pahalgam"],
+    "startDates": ["2026-04-20", "2026-06-01"],
+    "included": ["Hotel", "Breakfast", "Shikara Ride"],
+    "excluded": ["Flights"]
+  },
+  {
+    "tourName": "Goa Beach Fun",
+    "description": "Enjoy Goa beaches, nightlife, water sports and Portuguese culture.",
+    "price": 12000,
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 98,
+    "maxGroupSize": 20,
+    "durationInDays": 4,
+    "difficulty": "easy",
+    "startLocation": {
+      "city": "Goa",
+      "state": "Goa",
+      "coordinates": [73.8278, 15.4909]
+    },
+    "locationsCovered": ["Baga Beach", "Calangute", "Anjuna"],
+    "startDates": ["2026-05-10", "2026-06-12"],
+    "included": ["Hotel", "Breakfast"],
+    "excluded": ["Water sports charges"]
+  },
+  {
+    "tourName": "Kerala Backwaters Tour",
+    "description": "Experience houseboat stay in Alleppey and explore Munnar tea gardens.",
+    "price": 22000,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 175,
+    "maxGroupSize": 12,
+    "durationInDays": 5,
+    "difficulty": "easy",
+    "startLocation": {
+      "city": "Kochi",
+      "state": "Kerala",
+      "coordinates": [76.2673, 9.9312]
+    },
+    "locationsCovered": ["Munnar", "Alleppey", "Kochi"],
+    "startDates": ["2026-04-18", "2026-05-25"],
+    "included": ["Hotel", "Houseboat", "Breakfast"],
+    "excluded": ["Flights"]
+  },
+  {
+    "tourName": "Ladakh Adventure Trip",
+    "description": "High altitude adventure exploring Leh, Nubra Valley and Pangong Lake.",
+    "price": 30000,
+    "ratingsAverage": 4.9,
+    "ratingsQuantity": 150,
+    "maxGroupSize": 8,
+    "durationInDays": 7,
+    "difficulty": "hard",
+    "startLocation": {
+      "city": "Leh",
+      "state": "Ladakh",
+      "coordinates": [77.5770, 34.1526]
+    },
+    "locationsCovered": ["Leh", "Nubra Valley", "Pangong Lake"],
+    "startDates": ["2026-06-10", "2026-07-15"],
+    "included": ["Hotel", "Transport", "Breakfast"],
+    "excluded": ["Flights"]
+  },
+  {
+    "tourName": "Rajasthan Desert Safari",
+    "description": "Explore Jaisalmer desert with camel safari and cultural night.",
+    "price": 15000,
+    "ratingsAverage": 4.6,
+    "ratingsQuantity": 110,
+    "maxGroupSize": 18,
+    "durationInDays": 4,
+    "difficulty": "medium",
+    "startLocation": {
+      "city": "Jaisalmer",
+      "state": "Rajasthan",
+      "coordinates": [70.9167, 26.9157]
+    },
+    "locationsCovered": ["Jaisalmer", "Sam Sand Dunes"],
+    "startDates": ["2026-04-12", "2026-05-20"],
+    "included": ["Camp", "Dinner", "Camel ride"],
+    "excluded": ["Flights"]
+  },
+  {
+    "tourName": "Darjeeling Sikkim Hills",
+    "description": "Visit Darjeeling tea gardens and Gangtok monasteries.",
+    "price": 17000,
+    "ratingsAverage": 4.7,
+    "ratingsQuantity": 134,
+    "maxGroupSize": 14,
+    "durationInDays": 5,
+    "difficulty": "easy",
+    "startLocation": {
+      "city": "Bagdogra",
+      "state": "West Bengal",
+      "coordinates": [88.3167, 26.6812]
+    },
+    "locationsCovered": ["Darjeeling", "Gangtok"],
+    "startDates": ["2026-04-22", "2026-05-30"],
+    "included": ["Hotel", "Breakfast", "Sightseeing"],
+    "excluded": ["Flights"]
+  },
+  {
+    "tourName": "Andaman Island Escape",
+    "description": "Relax at Havelock island beaches and explore coral reefs.",
+    "price": 28000,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 90,
+    "maxGroupSize": 10,
+    "durationInDays": 5,
+    "difficulty": "easy",
+    "startLocation": {
+      "city": "Port Blair",
+      "state": "Andaman",
+      "coordinates": [92.7265, 11.6234]
+    },
+    "locationsCovered": ["Havelock Island", "Neil Island"],
+    "startDates": ["2026-05-05", "2026-06-18"],
+    "included": ["Hotel", "Boat transfer"],
+    "excluded": ["Flights"]
+  },
+  {
+    "tourName": "Rishikesh Haridwar Spiritual Tour",
+    "description": "Yoga, Ganga Aarti and adventure sports in Rishikesh.",
+    "price": 10000,
+    "ratingsAverage": 4.5,
+    "ratingsQuantity": 105,
+    "maxGroupSize": 16,
+    "durationInDays": 3,
+    "difficulty": "easy",
+    "startLocation": {
+      "city": "Rishikesh",
+      "state": "Uttarakhand",
+      "coordinates": [78.2676, 30.0869]
+    },
+    "locationsCovered": ["Rishikesh", "Haridwar"],
+    "startDates": ["2026-04-08", "2026-05-12"],
+    "included": ["Hotel", "Breakfast"],
+    "excluded": ["Rafting charges"]
+  },
+  {
+    "tourName": "Meghalaya Waterfalls Tour",
+    "description": "Visit Cherrapunji waterfalls and living root bridges.",
+    "price": 19000,
+    "ratingsAverage": 4.8,
+    "ratingsQuantity": 76,
+    "maxGroupSize": 12,
+    "durationInDays": 4,
+    "difficulty": "medium",
+    "startLocation": {
+      "city": "Shillong",
+      "state": "Meghalaya",
+      "coordinates": [91.8933, 25.5788]
+    },
+    "locationsCovered": ["Shillong", "Cherrapunji"],
+    "startDates": ["2026-04-25", "2026-06-05"],
+    "included": ["Hotel", "Breakfast"],
+    "excluded": ["Flights"]
+  }
+]
