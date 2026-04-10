@@ -2,6 +2,7 @@
 
 const express = require("express")
 const app = express()
+app.set('query parser', 'extended');
 const tourRouter = require("./router/tourRouter")
 
 // MIDDLEWARE 
